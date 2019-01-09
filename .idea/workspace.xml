@@ -38,6 +38,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -60,6 +69,7 @@
         <option value="$PROJECT_DIR$/company.csv" />
         <option value="$PROJECT_DIR$/database.txt" />
         <option value="$PROJECT_DIR$/parser.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -250,12 +260,12 @@
       <workItem from="1546846713514" duration="1846000" />
       <workItem from="1546907126484" duration="679000" />
       <workItem from="1546995859352" duration="5957000" />
-      <workItem from="1547002371033" duration="847000" />
+      <workItem from="1547002371033" duration="1119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9933000" />
+    <option name="totallyTimeSpent" value="10205000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,6 +376,13 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/products.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
